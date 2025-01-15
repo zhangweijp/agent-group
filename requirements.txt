@@ -4,3 +4,4 @@ aiosqlite==0.18.0
 sqlalchemy==2.0.15
 pydantic==1.10.7
 python-dotenv==1.0.0
+fastapi-users[sqlalchemy2]==10.1.1
